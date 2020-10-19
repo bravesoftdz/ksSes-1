@@ -67,3 +67,7 @@ __recovery/
 
 # Boss dependency manager vendor folder https://github.com/HashLoad/boss
 modules/
+Examples/VerifiedSenders/VerifiedSenders_Icon.ico
+Examples/VerifiedSenders/VerifiedSenders.otares
+Examples/VerifiedSenders/VerifiedSenders.dproj
+Examples/VerifiedSenders/VerifiedSenders.res

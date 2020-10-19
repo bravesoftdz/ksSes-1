@@ -28,8 +28,7 @@ unit ksSES;
 interface
 
 uses
-  Sysutils, Classes, System.Net.HttpClientComponent,
-  System.Net.HttpClient;
+  Sysutils, Classes;
 
 const
   C_ENDPOINT_OREGON          = 'email.us-west-2.amazonaws.com';
@@ -98,7 +97,8 @@ type
 
 implementation
 
-uses DateUtils, ComObj, XMLIntf, XMLDoc, synacode;
+uses DateUtils, ComObj, XMLIntf, XMLDoc, synacode, System.Net.HttpClientComponent,
+  System.Net.HttpClient;
 
 
 
