@@ -2,7 +2,9 @@ program VerifiedSenders;
 
 uses
   Vcl.Forms,
-  untMain in 'untMain.pas' {Form10};
+  untMain in 'untMain.pas' {Form10},
+  ksSes in '..\..\ksSes.pas',
+  synacode in '..\..\synacode.pas';
 
 {$R *.res}
 
