@@ -1,3 +1,7 @@
+# code has now been merged into https://github.com/gmurt/ksAws
+
+
+
 # ksSes
 Delphi interface for the AWS SES e-mail sending service
 
